@@ -1,4 +1,4 @@
-#------------------------------------------------------------------------------
+sno#------------------------------------------------------------------------------
 # Hands-On Lab: Data Engineering with Snowpark
 # Script:       05_fahrenheit_to_celsius_udf/app.py
 # Author:       Jeremiah Hansen, Caleb Baechtold
